@@ -1,0 +1,7 @@
+{
+  "name": "Pak Al Madeena Polyclinic",
+  "description": "Pak Al Madeena Polyclinic in Hor Al Anz, Deira, Dubai. Trusted, multicultural outpatient healthcare offering General Practice, Gynecology, Dentistry, and Ultrasound scans with 4.5-star patient satisfaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
